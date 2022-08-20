@@ -1,0 +1,24 @@
+/* meu primeiro CSS */
+body{
+    background-color: white;
+    font-family: "Times New Roman";
+}
+
+h1 {
+    color: blue;
+    font-size: 24px;
+    margin: 0 0 0 0;       
+}
+
+th {
+    background-color: #79c0fa;
+}
+
+footer {
+    font-size: 10px;
+    color: black;
+    font-family: 'Times New Roman';
+    padding: 10px;   
+    
+}
+
