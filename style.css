@@ -11,14 +11,15 @@ h1 {
 }
 
 th {
-    background-color: #79c0fa;
+    background-color:#79c0fa;
+    
 }
 
-footer {
-    font-size: 10px;
+.color-footer {
     color: black;
+    font-weight: bold;
+    font-size: 10px;
     font-family: 'Times New Roman';
-    padding: 10px;   
-    
+    padding: 0;      
 }
 
